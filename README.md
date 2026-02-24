@@ -1,5 +1,5 @@
 # ⚡ Smart Grid Energy Predictor
-
+ 🔗 **Live Demo:** https://smartgridsystem-vvrk3f8v34wrzbsnirt7jd.streamlit.app/
 A time-series forecasting application that predicts energy consumption in a smart grid using **Facebook Prophet** and provides interactive visualization through a **Streamlit dashboard**.
 
 The objective of this project is to improve energy demand forecasting accuracy for better grid stability, peak load management, and operational efficiency.
