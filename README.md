@@ -84,7 +84,7 @@ ds,y
 
 ```bash
 git clone https://github.com/Chandachanakya/smart_grid_system.git
-cd smart-grid-energy-predictor
+cd smart_grid_system
 ```
 
 ### 2. Create a Virtual Environment (Recommended)
