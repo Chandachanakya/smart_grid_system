@@ -83,7 +83,7 @@ ds,y
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Chandachanakya/smart-grid-energy-predictor.git
+git clone https://github.com/Chandachanakya/smart_grid_system.git
 cd smart-grid-energy-predictor
 ```
 
